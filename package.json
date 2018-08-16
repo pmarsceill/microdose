@@ -1,0 +1,34 @@
+{
+  "name": "microdose",
+  "version": "0.1.0",
+  "description": "Your personal microblog",
+  "main": "index.js",
+  "keywords": ["microblog", "nextjs"],
+  "dependencies": {
+    "@zeit/next-sass": "^0.2.0",
+    "babel-plugin-styled-components": "^1.5.1",
+    "next": "^6.1.1",
+    "node-sass": "^4.9.3",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "styled-components": "^3.4.2",
+    "styled-system": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "test": "next test",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmarsceill/microdose.git"
+  },
+  "author": "Patrick Marsceill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pmarsceill/microdose/issues"
+  },
+  "homepage": "https://github.com/pmarsceill/microdose#readme"
+}
